@@ -1,0 +1,93 @@
+[
+    {
+      "id": 1,
+      "title": "Procesador Intel Core i9",
+      "description": "Potente procesador para alto rendimiento",
+      "price": 500,
+      "thumbnail": "ruta/procesador.jpg",
+      "code": "CPU001",
+      "stock": 20
+    },
+    {
+      "id": 2,
+      "title": "Tarjeta Gráfica NVIDIA GeForce RTX 3080",
+      "description": "Tarjeta gráfica de última generación para juegos y diseño",
+      "price": 800,
+      "thumbnail": "ruta/tarjeta_grafica.jpg",
+      "code": "GPU002",
+      "stock": 15
+    },
+    {
+      "id": 3,
+      "title": "Memoria RAM Corsair Vengeance LPX 16GB",
+      "description": "Módulo de memoria RAM DDR4 para un rendimiento rápido",
+      "price": 120,
+      "thumbnail": "ruta/memoria_ram.jpg",
+      "code": "RAM003",
+      "stock": 30
+    },
+    {
+      "id": 4,
+      "title": "SSD Samsung 1TB",
+      "description": "Unidad de estado sólido de alta capacidad para almacenamiento rápido",
+      "price": 150,
+      "thumbnail": "ruta/ssd.jpg",
+      "code": "SSD004",
+      "stock": 25
+    },
+    {
+      "id": 5,
+      "title": "Placa Base ASUS ROG Strix",
+      "description": "Placa base para gaming con características premium",
+      "price": 250,
+      "thumbnail": "ruta/placa_base.jpg",
+      "code": "MB005",
+      "stock": 10
+    },
+    {
+      "id": 6,
+      "title": "Fuente de Poder EVGA 750W",
+      "description": "Fuente de poder certificada para alimentar componentes de alto rendimiento",
+      "price": 100,
+      "thumbnail": "ruta/fuente_poder.jpg",
+      "code": "PSU006",
+      "stock": 12
+    },
+    {
+      "id": 7,
+      "title": "Refrigeración líquida Corsair H100i",
+      "description": "Sistema de enfriamiento líquido para mantener temperaturas bajas",
+      "price": 150,
+      "thumbnail": "ruta/refrigeracion_liquida.jpg",
+      "code": "COOL007",
+      "stock": 18
+    },
+    {
+      "id": 8,
+      "title": "Teclado Mecánico Razer BlackWidow",
+      "description": "Teclado mecánico para gaming con retroiluminación RGB",
+      "price": 120,
+      "thumbnail": "ruta/teclado.jpg",
+      "code": "KB008",
+      "stock": 22
+    },
+    {
+      "id": 9,
+      "title": "Mouse Logitech G Pro",
+      "description": "Mouse para gaming con sensor de alta precisión",
+      "price": 60,
+      "thumbnail": "ruta/mouse.jpg",
+      "code": "MOUSE009",
+      "stock": 15
+    },
+    {
+      "id": 10,
+      "title": "Monitor ASUS 27 pulgadas",
+      "description": "Monitor IPS con resolución 1440p para una experiencia visual inmersiva",
+      "price": 300,
+      "thumbnail": "ruta/monitor.jpg",
+      "code": "MONITOR010",
+      "stock": 8
+    }
+  ]
+  
